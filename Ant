@@ -1,0 +1,10 @@
+--solução para exibir as cores corretamente do tabuleiro no console do eclipse:
+
+
+1. Dentro do eclipse Click no menu "help" -> "Marketplace" -> pesquise por "ansi".
+Instale o "ANSI Escape in Console".
+
+2. instale a extensão, e reinicie o eclipse.
+
+
+
